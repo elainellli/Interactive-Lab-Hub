@@ -75,17 +75,22 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
-_Setting:_ The setting is a large esports arena throughout the tournament timeline — from the opening matches, through wins and losses, to the final championship moment. Lighting is an important component here that reflects the current situation of the match and the audience atmosphere.
+_Setting:_ 
+
+The setting is a large esports arena throughout the tournament timeline — from the opening matches, through wins and losses, to the final championship moment. Lighting is an important component here that reflects the current situation of the match and the audience atmosphere.
 
 _Players:_ 
+
 Team/players (on stage) – Two teams on the stage are competing for the champion. Their performance determines how the lights respond.
 
 Audience (in the seats) – Each has their own support team. Their actions could also change the light effects.
 
 _Activity:_ 
+
 Two e-sports teams are competing for the final championship. Each team has its own representative color. Every audience member will have a device that shows their supported team's colored light. The light brightens or dims depending on the match progress. When one team wins a round, the winning team's light shines brighter, and the losing team's becomes dimmer. When intensity peaks (e.g., match point, comeback moment), the light pulses like a heartbeat to signal tension. As a team is eliminated, the losing team's light will go completely dark. As the team wins the final championship, there will be some special effects, like golden light. Audience cheering can also feed into the light’s brightness.
 
 _Goals:_ 
+
 The goal is the translate the intensity of a match into a visual atmosphere, making the arena more immersive and emotionally synchronized.
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
@@ -106,9 +111,11 @@ Present your ideas to the other people in your breakout room (or in small groups
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+
 It is hard to control the timing and synchronize the light changing for the two colors. Also, the color change when losing or winning a round is not so obvious.
 
 \*\***Are there new ideas that occur to you or your collaborator that come up from the acting?**\*\*
+
 In terms of audience interaction, as waving is hard to measure and map to the extent of making the light brighter, the light could only be determined by the volume of cheering. And for the effect, instead of making the light continuously grow brighter, a glow oscillation could create a greater mood. In that case, the lighting effect could be applied "globally" rather than for each specific group, to avoid the difficulty of determining which team's cheering and a weak light effect if the audience is scattered.
 
 ## Part C. Prototype the device
@@ -122,6 +129,7 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
+
 The switching between different colors takes some effort. Maybe can add some keyboard functions.
 
 ## Part D. Wizard the device
@@ -143,6 +151,7 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+
 ![sketch](https://github.com/user-attachments/assets/379f49b6-79d7-49c3-bf7f-9d2963df3cf5)
 
 
@@ -167,6 +176,7 @@ https://github.com/user-attachments/assets/24363c94-b32e-4b0e-9661-de36c6571f1d
 
 
 \*\***Please indicate who you collaborated with on this Lab.**\*\*
+
 Alexandre Gravereaux, Angela Bi, Kyle Li
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
