@@ -75,6 +75,7 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
+
 _Setting:_ 
 
 The setting is a large esports arena throughout the tournament timeline — from the opening matches, through wins and losses, to the final championship moment. Lighting is an important component here that reflects the current situation of the match and the audience atmosphere.
