@@ -3,6 +3,7 @@
 # Staging Interaction
 
 \*\***NAME OF COLLABORATOR HERE**\*\*
+
 Alexandre Gravereaux, Angela Bi, Kyle Li
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
@@ -78,6 +79,7 @@ _Setting:_ The setting is a large esports arena throughout the tournament timeli
 
 _Players:_ 
 Team/players (on stage) – Two teams on the stage are competing for the champion. Their performance determines how the lights respond.
+
 Audience (in the seats) – Each has their own support team. Their actions could also change the light effects.
 
 _Activity:_ 
