@@ -193,8 +193,13 @@ This describes the second week's work for this lab activity.
 You will be assigned three partners from other groups. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
 
 \*\***Summarize feedback from your partners here.**\*\*
+1. champion: light shape as a logo, vibration, cheering sound effect
+2. interaction between audience: eg. when two support the same team meet, sparkling effect
+3. audience can bet on the winning team even after their own supported team has lost
+4. when the audience's supported team is not competing, audience can choose the to not participate in (showing a special symbol like a triangle)
 
 ## Make it your own
+1. All neutral white at the beginning. as 
 
 Do last week’s assignment again, but this time: 
 1) It doesn’t have to (just) use light, 
