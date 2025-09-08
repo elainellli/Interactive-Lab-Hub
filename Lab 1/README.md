@@ -78,7 +78,7 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 _Setting:_ 
 
-The setting is a large esports arena throughout the tournament timeline — from the opening matches, through wins and losses, to the final championship moment. Lighting is an important component here that reflects the current situation of the match and the audience atmosphere.
+The setting is a large esports arena throughout the tournament timeline — from the opening rounds, through wins and losses, to the final championship moment. Lighting is an important component here that reflects the current situation of the round and the audience atmosphere.
 
 _Players:_ 
 
@@ -97,7 +97,9 @@ The goal is the translate the intensity of a match into a visual atmosphere, mak
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
-![image](https://github.com/user-attachments/assets/a1923570-12a5-47ac-850d-ed8562f9c03b)
+
+![storyboard1](https://github.com/user-attachments/assets/8cdd9ffd-bed4-4f37-af37-0860dd9bcac0)
+
 
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
@@ -138,7 +140,7 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-https://github.com/user-attachments/assets/6bfa850c-7433-4ced-8b88-3ad411af2953
+https://drive.google.com/file/d/12Tt_DA3-m8saib3qlPAqb-xfpFNVYLY1/view?usp=sharing
 
 Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
@@ -166,13 +168,11 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-https://github.com/user-attachments/assets/b436392b-f14a-463c-b665-1f213c95a83d
+https://drive.google.com/file/d/1emdWEZrIiIvdLorx6hISLqPa4l00eJj1/view?usp=sharing
 
+https://drive.google.com/file/d/1_zbEdAQpybY-L8kGJyULwthr2mcfrY8X/view?usp=sharing
 
-https://github.com/user-attachments/assets/f9e0f9e9-b917-483d-ab86-82944582336f
-
-
-https://github.com/user-attachments/assets/24363c94-b32e-4b0e-9661-de36c6571f1d
+https://drive.google.com/file/d/1fAmo1eYalo0B3uSeaJ9gkA4XymFUgC5C/view?usp=sharing
 
 
 
@@ -194,12 +194,10 @@ You will be assigned three partners from other groups. Go to their github pages,
 
 \*\***Summarize feedback from your partners here.**\*\*
 1. champion: light shape as a logo, vibration, cheering sound effect
-2. interaction between audience: eg. when two support the same team meet, sparkling effect
-3. audience can bet on the winning team even after their own supported team has lost
-4. when the audience's supported team is not competing, audience can choose the to not participate in (showing a special symbol like a triangle)
+2. interaction between audience: eg. when two supporters of the same team meet, the devices shows a sparkling effect
+3. When the audience's supported team is not competing, the audience can choose not to participate in (showing a special symbol like a triangle)
 
 ## Make it your own
-1. All neutral white at the beginning. as 
 
 Do last week’s assignment again, but this time: 
 1) It doesn’t have to (just) use light, 
@@ -207,3 +205,81 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+## Part A. Plan 
+
+\*\***Describe your setting, players, activity and goals here.**\*\*
+
+Settings, players, and goals are the same as the previous plan.
+
+_Updated Activity:_ 
+
+1. At the start of the game, the audience can choose to participate or not. If he/she chooses to participate, which means he/she wants to support a team during this game, the light color will change towards the supported team's color as the game progresses. If the audience chooses not to participate, then the light will stay neutral (white) during the game. All light color starts with neutral white, no matter participating or not.
+
+2. For the audience with a supported team, as the game progresses, each time the team wins a single round, the light color will go brighter towards the team's color. No changes when the team loses a single round. When a team wins the entire game, the corresponding fans' light will show a sparkling effect with the team's color, and the device vibrates. While the lost team's light diminishes to dark.
+
+3. When two fans who support the same team meet, they can touch each other's devices with their own to play a special cheering sound effect and a shining light effect and the devices also vibrate.
+
+4. In between rounds, audience cheering can create a heartbeat effect (bright to white to bright).
+
+5. When intensity peaks (e.g., match point, comeback moment), the light pulses like a heartbeat (bright to dark to bright) to signal tension. 
+
+6. When a team wins the final championship, the light in the entire arena will glow the winning team's color with a wave effect. The device vibrates and plays a winning sound effect. Every device will light the team logo on it.
+
+Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
+
+\*\***Include pictures of your storyboards here**\*\*
+![storyboard_2](https://github.com/user-attachments/assets/b84946ad-e579-4708-9668-cfb5d25e910c)
+
+
+## Part B. Act out the Interaction
+
+Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
+
+\*\***Are there things that seemed better on paper than acted out?**\*\*
+
+Showing the logo using the images displayed on the screen is too obscure, so we instead chose to simplify it by drawing the logo on the devices to prototype. On paper, the idea of the lights dimming completely when a team lost seemed dramatic and clear. But when we acted it out, the effect felt awkward because a large part of the audience would become dark.
+
+\*\***Are there new ideas that occur to you or your collaborator that come up from the acting?**\*\*
+
+When the For the audience choose not to support any team, they can bet on the winner to participate in the game in another way. If the betting team wins the game, the light will display a sparkling effect with a white color. 
+
+In addtion, when an audience chooses a supported team, there'd better to be some light effects to represent that the supported team has been successfully chosen. We decide to make the light flashes the chosen team's color twice to show that successful selection or white twice to represent being neutral. Then afterwards if the neutral audience would like to bet on the winners, the bet team's color flashes twice with vibration to distinguish from supporting a team.
+
+Also, instead of diminishing the lost team's light to dark, which makes the overall arena atmosphere weaker, the light could switch to neutral white so that the arena still feels lit.
+
+## Part C. Prototype the device
+
+You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
+
+Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/IRL-CT/tinkerbelle).
+
+We invented this tool for this lab! 
+
+If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
+
+\*\***Give us feedback on Tinkerbelle.**\*\*
+
+There's a great latency in the audio playing, and sometimes the audio even doesn't play. When modifying codes to automate the color changes, the color flashes on some phone devices.
+
+## Part D. Wizard the device
+Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene that you want to record. 
+
+\*\***Include your first attempts at recording the set-up video here.**\*\*
+
+(https://drive.google.com/file/d/1fxgLURbu12EbOsruD4oVE6BArueTMsUE/view?usp=sharing)
+
+
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
+
+## Part E. Costume the device
+
+The costumes design are the same as the previous. But we pick the glow sticks in the end to record since it both generates the strongest light effect and is easy to select the supported team.
+
+
+## Part F. Record
+
+\*\***Take a video of your prototyped interaction.**\*\*
+
+https://drive.google.com/file/d/1tYM4QeRWOVJLCaelkOLcJ6II-JzlV4xa/view?usp=sharing
+
